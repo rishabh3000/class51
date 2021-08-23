@@ -1,0 +1,2 @@
+# class51
+numpy
